@@ -1,0 +1,111 @@
+
+body{
+  background-color:white
+}
+.Imagem1:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   display: flex;
+  flex-wrap: wrap; 
+  
+}
+
+div {
+  margin-left: 60px;
+  margin-right: 20px;
+  display: inline-block;
+  
+}
+
+.Imagem2:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+ 
+   
+   
+}
+.Imagem3:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem4:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem5:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem6:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem7:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem8:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+  
+}
+.Imagem9:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem10:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem11:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+
+
+}
+.Imagem12:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem13:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.Imagem14:hover{
+  transform: scale(1.2);
+   transition: transform 0.5s;
+   display: flex;
+   
+}
+.btn-container{
+  color:yellowgreen
+}
+h2{
+  background-color:yellow
+  
+}
+button{
+  background-color: red;
+}
+

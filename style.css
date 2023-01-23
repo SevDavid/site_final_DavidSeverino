@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:verdana;
+  }
+  nav{
+    height: 100px;
+  }
+  
+  nav ul{
+    float: right;
+    margin-right: 30px;
+  }
+  nav ul li{
+    display: inline-block;
+    transition: 0.7s all;
+  }
+  nav ul li:hover{
+    
+    background-color:burlywood;
+  }
+  nav ul li a{
+    
+    color: #fff;
+    padding: 25px;
+    display: flex;
+  }
+  
+ 
+body{
+  background: url(fundo.jpg);
+}
+
+
+.texto {
+  position: absolute;
+  text-align: center;
+  top: 100px;
+  width: 250px;
+  height: 30px;
+  
+}
+
+.wrapper {
+  min-height: 80vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding:  60px;
+  
+}
+
+.text {
+  color:white
+}
+
+.bur {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+
+p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+h1 {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+h6{
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+h2{
+  animation-duration: 3s; 
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+
+  .title {
+    background-color: rgb(185, 71, 51);
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+  }
+  @media screen {
+    
+  }
+
+
+  
